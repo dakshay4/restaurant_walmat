@@ -1,0 +1,32 @@
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+}
+
+/Three APis
+
+Waitlist (wi need to add group to waitlist)
+
+Customer
+1. Booking a table :- api is to add group to waitlist (size: n, 
+2. remove group from waitlist
+
+WaitList, Group
+
+Restaurant Manager
+3. GET:// Give a group of n numbers
+
+1 => size:2
+2 => size :5
+3 => size :10
+4 => size :30
+5 => size :4
